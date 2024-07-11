@@ -4,8 +4,7 @@
 
 
 ## Habilidades : 
-![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085) ![.NET](https://img.shields.io/badge/.net-black?style=for-the-badge&logo=dotnet)
-![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=823085) ![PHP](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085) 
+![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085) ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=823085) ![PHP](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085) 
 
 
 
