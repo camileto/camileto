@@ -1,11 +1,5 @@
 # Michel Araujo
 
-- Comecei a estudar e trabalhar com programação no ensino médio programando em arduino e automação residencial.
-
-- Trabalhei em grandes empresas, sempre com foco na qualidade do produto entregue ao cliente.
-
-- Hoje traduzo artigos em inglês no FreeCodeCamp para democratizar o conhecimento na comunidade tech.
-
 ## Conecte-se comigo : 
 [![Github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=0E76A8)](https://github.com/camileto)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/michelaraujo/)
