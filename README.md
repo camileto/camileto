@@ -5,11 +5,3 @@
 
 ## Habilidades : 
 ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=dotnet&logoColor=823085) ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=823085) ![PHP](https://img.shields.io/badge/php-000?style=for-the-badge&logo=php&logoColor=823085) 
-
-
-
-## Github Stats : 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=camileto&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=camileto&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
