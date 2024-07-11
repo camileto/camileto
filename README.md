@@ -3,5 +3,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/michelaraujo/)
 
 
-## Habilidades : 
+## Tecnologias : 
 ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=dotnet&logoColor=823085) ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=823085) ![PHP](https://img.shields.io/badge/php-000?style=for-the-badge&logo=php&logoColor=823085) 
